@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Ramkrishna](https://acharyaramkrishna.com.np)(Quassarian Viper)</h1>
+<h1 align="center">Hi 👋, I'm <a href = "https://acharyaramkrishna.com.np">Ramkrishna</a>(Quassarian Viper)</h1>
 <h3 align="center">A passionate ML learner from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=q-viper" alt="q-viper" /> </p>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **viper.incarnation@gmail.com**
 
-- ⚡ Fun fact **Wrestling over any sports.**
+- ⚡ Fun fact **I love Wrestling over any sports.**
 
 ### Blogs posts On
 <!-- BLOG-POST-LIST:START -->
