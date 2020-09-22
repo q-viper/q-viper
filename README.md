@@ -18,6 +18,7 @@
 - ⚡ Fun fact **Wrestling over any sports.**
 
 ### Blogs posts
+[q-viper.github.io](q-viper.github.io/posts/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
