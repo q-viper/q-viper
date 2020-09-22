@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramkrishna(Quassarian Viper)</h1>
+<h1 align="center">Hi 👋, I'm [Ramkrishna](https://acharyaramkrishna.com.np)(Quassarian Viper)</h1>
 <h3 align="center">A passionate ML learner from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=q-viper" alt="q-viper" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://q-viper.github.io/portfolio_new/#projects](https://q-viper.github.io/portfolio_new/#projects)
 
-- 📝 I regulary write articles on [q-viper.github.io](q-viper.github.io)
+- 📝 I regulary write articles on [q-viper.github.io](https://q-viper.github.io/)
 
 - 💬 Ask me about **Basic of Computer Vision, Chatbots.**
 
@@ -17,10 +17,12 @@
 
 - ⚡ Fun fact **Wrestling over any sports.**
 
-### Blogs posts
-[q-viper.github.io](q-viper.github.io/posts/)
+### Blogs posts On
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+* [q-viper.github.io](https://q-viper.github.io/posts/)
+* [Ramkrishna Acharya](https://acharyaramkrishna.com.np/blogs/)
+
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
 
