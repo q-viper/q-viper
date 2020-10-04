@@ -35,4 +35,7 @@
 <a href="https://linkedin.com/in/qramkrishna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="qramkrishna" height="30" width="30" /></a>
 <a href="https://medium.com/@qrka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@qrka" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/viper incarnation" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="viper incarnation" height="30" width="30" /></a>
+<a href="https://dev.to/qviper">
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Viper's DEV Profile" height="30" width="30">
+</a>
 </p>
