@@ -3,18 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=q-viper" alt="q-viper" /> </p>
 
-- 🔭 I’m currently working on **Corn Infection**
+#### HMM About me?
 
-- 🌱 I’m currently learning **Game Development, Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://q-viper.github.io/portfolio_new/#projects](https://q-viper.github.io/portfolio_new/#projects)
-
+- 💻 A `Deep Learning` and `AI` developer, CSIT Undergrad from **Tribhuvan University**.
+- ⚡️ [**Blogging about cool projects**](https://q-viper.github.io/).
+- 🤖 Creator of a `[Contour Based Writing Method](https://q-viper.github.io/2020/08/28/gesture-based-visually-writing-system-web-app/), using **Using OpenCV and Image Processing**.
+- 🥇 An **active blogger** and **`Open-Source Contributor`** and would love to colab on **Open Source Projects**.
+- 🔭 Currently working on **Detection of Infection on Corn Leaves**.
+- 🎶 Listen to `Symphonic Metal`. 
+- 🌱 I’m currently learning **Unity Game Development, Advanced Machine Learning.**
+- 👨‍💻 All of my projects are available at [q-viper.github.io](https://q-viper.github.io/portfolio_new/#projects)
 - 📝 I regulary write articles on [q-viper.github.io](https://q-viper.github.io/)
-
-- 💬 Ask me about **Basic of Computer Vision, Chatbots.**
-
-- 📫 How to reach me **viper.incarnation@gmail.com**
-
+- 💬 Ask me about **Computer Vision, Chatbots.**
+- 📫 How to reach me **[viper.incarnation@gmail.com](viper.incarnation@gmail.com)**
 - ⚡ Fun fact **I love Wrestling over any sports.**
 
 ### Blogs posts On
@@ -28,7 +29,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q-viper&layout=compact" alt="q-viper" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=q-viper&show_icons=true" alt="q-viper" /></p>
+
+![Viper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=q-viper&show_icons=true&theme=radical)
+
+
 
 <p align="center">
 <a href="https://twitter.com/quassarianviper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="quassarianviper" height="30" width="30" /></a>
