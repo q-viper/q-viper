@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Code 2020: Python Solution Day 13](https://dev.to/qviper/advent-of-code-2020-python-solution-day-13-24k4)
 - [Advent of Code 2020: Python Solution Day 12](https://dev.to/qviper/advent-of-code-2020-python-solution-day-12-1gmk)
 - [Advent of Code 2020: Python Solution Day 11](https://dev.to/qviper/advent-of-code-2020-python-solution-day-11-2lkj)
 - [Advent of Code 2020: Python Solution Day 10](https://dev.to/qviper/advent-of-code-2020-python-solution-day-10-30kd)
-- [Advent of Code 2020: Python Solution Day 9](https://dev.to/qviper/advent-of-code-2020-python-solution-day-9-1knj)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
