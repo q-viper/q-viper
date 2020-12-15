@@ -11,7 +11,7 @@
 
 - 💻 AI and Unity, CSIT Undergrad from **Tribhuvan University**.
 - ⚡️ [**Blogging about cool projects**](https://q-viper.github.io/).
-- 🤖 Creator of a [Contour Based Writing Method](https://q-viper.github.io/2020/08/28/gesture-based-visually-writing-system-web-app/), using **Using OpenCV and Image Processing**, [NEPSE Data Visualizer](https://q-viper.github.io/2020/11/21/deploying-nepse-data-visualizer-on-heroku/) and so on.
+- 🤖 Creator of a [Contour Based Writing Method](https://q-viper.github.io/2020/08/28/gesture-based-visually-writing-system-web-app/), [Face Mask Classifier](https://github.com/q-viper/Face-Mask-Classification-With-Streamlit), [NEPSE Data Visualizer](https://q-viper.github.io/2020/11/21/deploying-nepse-data-visualizer-on-heroku/) and so on.
 - 🥇 An **active blogger** and **`Open-Source Contributor`** and would love to colab on **Open Source Projects**.
 - 🔭 Currently working on **Detection of Infection on Corn Leaves**.
 - 🎶 Listen to `Symphonic Metal`. 
