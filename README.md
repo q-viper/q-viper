@@ -24,7 +24,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code 2020: Python Solution day 15](https://dev.to/qviper/advent-of-code-2020-python-solution-day-15-4a1j)
+- [Advent of Code 2020: Python Solution Day 15](https://dev.to/qviper/advent-of-code-2020-python-solution-day-15-4a1j)
 - [Advent of Code 2020: Python Solution Day 14](https://dev.to/qviper/advent-of-code-2020-python-solution-day-14-15ej)
 - [Advent of Code 2020: Python Solution Day 13](https://dev.to/qviper/advent-of-code-2020-python-solution-day-13-24k4)
 - [Advent of Code 2020: Python Solution Day 12](https://dev.to/qviper/advent-of-code-2020-python-solution-day-12-1gmk)
