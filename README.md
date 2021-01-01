@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Data Apps Faster With dstack.ai](https://dev.to/qviper/building-data-apps-faster-with-dstack-ai-3lif)
 - [Which is your best project that you want to share?](https://dev.to/qviper/which-is-your-best-project-that-you-want-to-share-1l1b)
 - [Building Data Apps Faster With dstack.ai](https://q-viper.github.io/2020/12/25/exploring-dstack-for-building-data-apps-faster/)
 - [Building Machine Learning Apps Faster With dstack.ai](https://q-viper.github.io/2020/12/25/using-dstack-for-building-machine-learning-apps-faster/)
-- [Advent of Code 2020: Python Solution Day 25](https://dev.to/qviper/advent-of-code-2020-python-solution-day-25-3el4)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
