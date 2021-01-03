@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Making Machine Learning Apps Easier with dstack.ai](https://medium.com/@qrka/making-machine-learning-apps-easier-with-dstack-ai-a0066fbae6f?source=rss-f58a0752a00d------2)
-- [Building Machine Learning Apps Faster with dstack.ai](https://dev.to/qviper/building-machine-learning-apps-faster-with-dstack-ai-49ba)
-- [Building Data Apps Faster with dstack.ai](https://medium.com/@qrka/building-data-apps-faster-with-dstack-ai-45747c3194d1?source=rss-f58a0752a00d------2)
-- [Building Data Apps Faster With dstack.ai](https://dev.to/qviper/building-data-apps-faster-with-dstack-ai-3lif)
+- [Building Data Apps Faster With dstack.ai](https://q-viper.github.io/2020/12/25/exploring-dstack-for-building-data-apps-faster/)
+- [Building Machine Learning Apps Faster With dstack.ai](https://q-viper.github.io/2020/12/25/using-dstack-for-building-machine-learning-apps-faster/)
+- [NEPSE Data Visualizing and Deploy it on Heroku](https://q-viper.github.io/2020/11/21/deploying-nepse-data-visualizer-on-heroku/)
+- [Corn Leaf Infection Detection: Data Preprocessing and Custom Datagenerator](https://q-viper.github.io/2020/10/19/corn-infection-detection-data-preparation/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
