@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Machine Learning Apps Easier with dstack.ai](https://medium.com/@qrka/making-machine-learning-apps-easier-with-dstack-ai-a0066fbae6f?source=rss-f58a0752a00d------2)
+- [Building Machine Learning Apps Faster with dstack.ai](https://dev.to/qviper/building-machine-learning-apps-faster-with-dstack-ai-49ba)
+- [Building Data Apps Faster with dstack.ai](https://medium.com/@qrka/building-data-apps-faster-with-dstack-ai-45747c3194d1?source=rss-f58a0752a00d------2)
 - [Building Data Apps Faster With dstack.ai](https://dev.to/qviper/building-data-apps-faster-with-dstack-ai-3lif)
-- [Which is your best project that you want to share?](https://dev.to/qviper/which-is-your-best-project-that-you-want-to-share-1l1b)
-- [Building Data Apps Faster With dstack.ai](https://q-viper.github.io/2020/12/25/exploring-dstack-for-building-data-apps-faster/)
-- [Building Machine Learning Apps Faster With dstack.ai](https://q-viper.github.io/2020/12/25/using-dstack-for-building-machine-learning-apps-faster/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
