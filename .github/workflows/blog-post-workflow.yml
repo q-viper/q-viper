@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://dev.to/feed/qviper, https://medium.com/feed/@qrka, https://q-viper.github.io/feed.xml"
+                feed_list: "https://q-viper.github.io/feed.xml"
