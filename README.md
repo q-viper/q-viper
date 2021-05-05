@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With OpenCV in C/C++ in Windows](https://q-viper.github.io/2021/05/04/getting-started-with-opencv-in-c-c++-in-windows/)
 - [Messing Up With Convolutional Neural Nets: Autoencoder for Grayscale to RGB Image](https://q-viper.github.io/2021/03/10/messing-up-with-cnn-auto-encoder-for-gray-to-rgb-image/)
 - [Building Data Apps Faster With dstack.ai](https://q-viper.github.io/2020/12/25/exploring-dstack-for-building-data-apps-faster/)
 - [Building Machine Learning Apps Faster With dstack.ai](https://q-viper.github.io/2020/12/25/using-dstack-for-building-machine-learning-apps-faster/)
-- [NEPSE Data Visualizing and Deploy it on Heroku](https://q-viper.github.io/2020/11/21/deploying-nepse-data-visualizer-on-heroku/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
