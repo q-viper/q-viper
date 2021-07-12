@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Air Mouse: Controlling Mouse With Gestures in Air](https://q-viper.github.io/2021/07/12/air-mouse-control-mouse-with-gestures/)
 - [Realtime Background Changing in Python](https://q-viper.github.io/2021/07/11/real-time-background-changing/)
 - [Image Compression In Python: Run Length Encoding](https://q-viper.github.io/2021/05/24/coding-run-length-encoding-in-python/)
 - [Getting Started With OpenCV in C/C++ in Windows](https://q-viper.github.io/2021/05/04/getting-started-with-opencv-in-c-c++-in-windows/)
-- [Messing Up With Convolutional Neural Nets: Autoencoder for Grayscale to RGB Image](https://q-viper.github.io/2021/03/10/messing-up-with-cnn-auto-encoder-for-gray-to-rgb-image/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
