@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Code 2021: Python Solution](https://q-viper.github.io/2021/12/01/advent-of-code-2021-python-solution/)
 - [Running Airflow in Windows with WSL](https://q-viper.github.io/2021/12/01/running-airflow-in-wsl-and-getting-started-with-it/)
 - [Gesture Based Calculator](https://q-viper.github.io/2021/07/17/gesture-based-calculator/)
 - [Game: Kill a Fly](https://q-viper.github.io/2021/07/16/game-kill-a-fly/)
-- [Gesture Based Visually Writing System](https://q-viper.github.io/2021/07/15/gesture-based-visually-writing-system/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
