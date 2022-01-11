@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Tasks in Airflow](https://q-viper.github.io/2022/01/09/airflow-dynamic-tasks/)
 - [Data Analysis and Importance of Groupby in Pandas but not Just pd.groupby](https://q-viper.github.io/2022/01/05/data-analysis-pandas-groupby/)
 - [Image Compression In Python: Huffman Encoding](https://q-viper.github.io/2021/12/24/coding-huffman-encoding-in-python/)
 - [Advent of Code 2021: Python Solution](https://q-viper.github.io/2021/12/01/advent-of-code-2021-python-solution/)
-- [Running Airflow in Windows with WSL](https://q-viper.github.io/2021/12/01/running-airflow-in-wsl-and-getting-started-with-it/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
