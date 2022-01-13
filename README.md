@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Connecting to MySQL Server in Windows Machine from WSL](https://q-viper.github.io/2022/01/13/connecting-windows-mysql-from-wsl/)
+- [Branching Tasks in Airflow](https://q-viper.github.io/2022/01/13/branching-task-in-airflow/)
 - [Dynamic Tasks in Airflow](https://q-viper.github.io/2022/01/09/airflow-dynamic-tasks/)
 - [Data Analysis and Importance of Groupby in Pandas but not Just pd.groupby](https://q-viper.github.io/2022/01/05/data-analysis-pandas-groupby/)
-- [Image Compression In Python: Huffman Encoding](https://q-viper.github.io/2021/12/24/coding-huffman-encoding-in-python/)
-- [Advent of Code 2021: Python Solution](https://q-viper.github.io/2021/12/01/advent-of-code-2021-python-solution/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
