@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Plotting interactive plots with Plotly and Cufflinks](https://q-viper.github.io/2022/01/30/interactive-plot-with-plotly-cufflinks/)
+- [Walkthrough of Statistical Analysis in Data Science](https://q-viper.github.io/2022/02/05/statistical-analysis-in-data-science/)
+- [Plotting interactive plots with Plotly and Cufflinks](https://q-viper.github.io/2022/01/29/interactive-plot-with-plotly-cufflinks/)
 - [Branching Tasks in Airflow](https://q-viper.github.io/2022/01/23/branching-task-in-airflow/)
 - [Connecting to MySQL Server in Windows Machine from WSL](https://q-viper.github.io/2022/01/13/connecting-windows-mysql-from-wsl/)
-- [Dynamic Tasks in Airflow](https://q-viper.github.io/2022/01/09/airflow-dynamic-tasks/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
