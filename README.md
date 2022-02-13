@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Julia in Windows and Running in Jupyter Notebook](https://q-viper.github.io/2022/02/13/installing-julia-in-windows-running-in-jupyter/)
 - [Walkthrough of Statistical Analysis in Data Science](https://q-viper.github.io/2022/02/05/statistical-analysis-in-data-science/)
 - [Plotting interactive plots with Plotly and Cufflinks](https://q-viper.github.io/2022/01/29/interactive-plot-with-plotly-cufflinks/)
 - [Branching Tasks in Airflow](https://q-viper.github.io/2022/01/23/branching-task-in-airflow/)
-- [Connecting to MySQL Server in Windows Machine from WSL](https://q-viper.github.io/2022/01/13/connecting-windows-mysql-from-wsl/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
