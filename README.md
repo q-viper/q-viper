@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Awesome Data Dashboard with Plotly in Streamlit: Clustering](https://q-viper.github.io/2022/02/27/creating-data-dashboards-with-plotly-in.streamlit_clustering/)
 - [Creating Awesome Data Dashboard with Plotly in Streamlit: EDA](https://q-viper.github.io/2022/02/20/creating-data-dashboards-with-plotly-in.streamlit/)
 - [Installing Julia in Windows and Running in Jupyter Notebook](https://q-viper.github.io/2022/02/13/installing-julia-in-windows-running-in-jupyter/)
 - [Walkthrough of Statistical Analysis in Data Science](https://q-viper.github.io/2022/02/05/statistical-analysis-in-data-science/)
-- [Plotting interactive plots with Plotly and Cufflinks](https://q-viper.github.io/2022/01/29/interactive-plot-with-plotly-cufflinks/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
