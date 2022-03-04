@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for Stock Market Analysis: Exploring Technical Indicators](https://q-viper.github.io/2022/03/01/python-for-stock-market-analysis-technical-indicators/)
 - [Creating Awesome Data Dashboard with Plotly in Streamlit: Clustering](https://q-viper.github.io/2022/02/27/creating-data-dashboards-with-plotly-in.streamlit_clustering/)
 - [Creating Awesome Data Dashboard with Plotly in Streamlit: EDA](https://q-viper.github.io/2022/02/20/creating-data-dashboards-with-plotly-in.streamlit/)
 - [Installing Julia in Windows and Running in Jupyter Notebook](https://q-viper.github.io/2022/02/13/installing-julia-in-windows-running-in-jupyter/)
-- [Walkthrough of Statistical Analysis in Data Science](https://q-viper.github.io/2022/02/05/statistical-analysis-in-data-science/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
