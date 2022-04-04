@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for Stock Market Analysis: Growth Rates](https://q-viper.github.io/2022/04/03/python-for-stock-market-analysis-growth-rates/)
+- [Central Tendency vs Dispersion](https://q-viper.github.io/2022/03/27/central-tendency-vs-dispersion/)
 - [Python for Stock Market Analysis: Exploring Technical Trend Indicators](https://q-viper.github.io/2022/03/20/python-for-stock-market-analysis-technical-indicators/)
 - [Running Airflow in WSL but Using MySQL Server from Windows as Default](https://q-viper.github.io/2022/03/13/airflow-in-wsl-but-using-mysql-from-windows-as-default-from/)
-- [Python for Stock Market Analysis: Working with Moving Averages](https://q-viper.github.io/2022/03/06/python-for-stock-market-analysis-moving-average/)
-- [Creating Awesome Data Dashboard with Plotly in Streamlit: Clustering](https://q-viper.github.io/2022/02/27/creating-data-dashboards-with-plotly-in.streamlit_clustering/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
