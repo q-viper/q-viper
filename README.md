@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Asyncio: Concurrent Programming](https://q-viper.github.io/2022/05/08/python-asyncio/)
 - [Python for Stock Market Analysis: Alpaca API](https://q-viper.github.io/2022/05/01/python-for-stock-market-analysis-alpaca-api/)
 - [Introduction to Probability for Data Science: Getting Started](https://q-viper.github.io/2022/04/24/introduction-to-probability-for-data-science-getting-started/)
 - [Python for Stock Market Analysis: Getting Started into Modeling Timeseries](https://q-viper.github.io/2022/04/17/python-for-stock-market-analysis-getting-started-into-modeling/)
-- [Python for Stock Market Analysis: Getting Started into Timeseries Analysis](https://q-viper.github.io/2022/04/10/python-for-stock-market-analysis-getting-started-into-timeseries-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
