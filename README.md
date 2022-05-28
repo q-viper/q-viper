@@ -25,9 +25,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [MySQL: Triggers](https://q-viper.github.io/2022/05/22/mysql-triggers/)
+- [A General Way to Perform an EDA](https://q-viper.github.io/2022/05/22/a-general-way-to-perform-eda/)
 - [Pyscript: Running Python in Webpages](https://q-viper.github.io/2022/05/15/pyscript-running-python-in-webpages/)
 - [Python Asyncio: Concurrent Programming](https://q-viper.github.io/2022/05/08/python-asyncio/)
-- [Python for Stock Market Analysis: Alpaca API](https://q-viper.github.io/2022/05/01/python-for-stock-market-analysis-alpaca-api/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
