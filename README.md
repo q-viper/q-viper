@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Scraping Tweets with Tweepy](https://q-viper.github.io/2022/06/04/a-general-way-to-perform-eda-copy/)
 - [MySQL: Triggers](https://q-viper.github.io/2022/05/22/mysql-triggers/)
-- [A General Way to Perform an EDA](https://q-viper.github.io/2022/05/22/a-general-way-to-perform-eda/)
+- [A General Way to Perform an EDA](https://q-viper.github.io/2022/05/22/scraping-tweets-with-tweepy/)
 - [Pyscript: Running Python in Webpages](https://q-viper.github.io/2022/05/15/pyscript-running-python-in-webpages/)
-- [Python Asyncio: Concurrent Programming](https://q-viper.github.io/2022/05/08/python-asyncio/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
