@@ -24,9 +24,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Scraping Tweets with Tweepy](https://q-viper.github.io/2022/06/04/a-general-way-to-perform-eda-copy/)
+- [Scraping Tweets with Tweepy](https://q-viper.github.io/2022/06/04/scraping-tweets-with-tweepy/)
 - [MySQL: Triggers](https://q-viper.github.io/2022/05/22/mysql-triggers/)
-- [A General Way to Perform an EDA](https://q-viper.github.io/2022/05/22/scraping-tweets-with-tweepy/)
+- [A General Way to Perform an EDA](https://q-viper.github.io/2022/05/22/a-general-way-to-perform-eda/)
 - [Pyscript: Running Python in Webpages](https://q-viper.github.io/2022/05/15/pyscript-running-python-in-webpages/)
 <!-- BLOG-POST-LIST:END -->
 
