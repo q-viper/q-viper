@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond and Within EDA: Taking EDA into Modelling](https://q-viper.github.io/2022/06/11/beyond-and-within-eda/)
 - [Scraping Tweets with Tweepy](https://q-viper.github.io/2022/06/04/scraping-tweets-with-tweepy/)
+- [A General Way to Perform an EDA](https://q-viper.github.io/2022/05/29/a-general-way-to-perform-eda/)
 - [MySQL: Triggers](https://q-viper.github.io/2022/05/22/mysql-triggers/)
-- [A General Way to Perform an EDA](https://q-viper.github.io/2022/05/22/a-general-way-to-perform-eda/)
-- [Pyscript: Running Python in Webpages](https://q-viper.github.io/2022/05/15/pyscript-running-python-in-webpages/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
