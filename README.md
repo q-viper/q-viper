@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Taking Data Apps into WebApp: Using Streamlit, Plotly, and Python](https://q-viper.github.io/2022/06/12/taking-data-apps-into-webapp/)
 - [Beyond and Within EDA: Taking EDA into Modelling](https://q-viper.github.io/2022/06/11/beyond-and-within-eda/)
 - [Scraping Tweets with Tweepy](https://q-viper.github.io/2022/06/04/scraping-tweets-with-tweepy/)
 - [A General Way to Perform an EDA](https://q-viper.github.io/2022/05/29/a-general-way-to-perform-eda/)
-- [MySQL: Triggers](https://q-viper.github.io/2022/05/22/mysql-triggers/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
