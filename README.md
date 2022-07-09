@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SMTPlib: Send Emails with Python](https://q-viper.github.io/2022/07/03/smtplib-send-emails-with-python/)
 - [Getting Started with Apache Superset for Data Dashboards](https://q-viper.github.io/2022/06/26/getting-started-with-apache-superset/)
 - [Taking Data Apps into WebApp: Using Streamlit, Plotly, and Python](https://q-viper.github.io/2022/06/19/taking-data-apps-into-webapp/)
 - [Beyond and Within EDA: Taking EDA into Modelling](https://q-viper.github.io/2022/06/11/beyond-and-within-eda/)
-- [Scraping Tweets with Tweepy](https://q-viper.github.io/2022/06/04/scraping-tweets-with-tweepy/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
