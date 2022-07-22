@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href = "https://acharyaramkrishna.com.np">Ramkrishna</a>(Quassarian Viper)</h1>
+<h1 align="center">Hi 👋, I'm <a href = "https://q-viper.github.io/portfolio_new/">Ramkrishna</a>(Quassarian Viper)</h1>
 <h3 align="center">A passionate ML learner from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=q-viper&label=Profile%20views&color=0e75b6&style=flat" alt="q-viper" /> </p>
