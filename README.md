@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Making People Finder in 2022 Using BeautifulSoup](https://q-viper.github.io/2022/07/24/making-people-finder-in-2022/)
 - [Deploying Streamlit App with Custom Domain in Apache2](https://q-viper.github.io/2022/07/17/deploying-streamlit-app-with-custom-domain-in-apache2/)
 - [Polygon.io for Stock Market Data](https://q-viper.github.io/2022/07/10/polygon-io-for-stock-market-data/)
 - [SMTPlib: Send Emails with Python](https://q-viper.github.io/2022/07/03/smtplib-send-emails-with-python/)
-- [Getting Started with Apache Superset for Data Dashboards](https://q-viper.github.io/2022/06/26/getting-started-with-apache-superset/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
