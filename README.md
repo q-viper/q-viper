@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Image Size Reducer In Python](https://q-viper.github.io/2022/08/13/building-image-size-reducer-python/)
 - [Making Fractal Shapes with Python](https://q-viper.github.io/2022/08/06/making-fractal-shapes-with-python/)
 - [Making Weather Bot with Accuweather, OpenWeather and Twilio](https://q-viper.github.io/2022/07/31/making-weather-bot-with-openweather-accuweather-twilio/)
 - [Making People Finder in 2022 Using BeautifulSoup](https://q-viper.github.io/2022/07/24/making-people-finder-in-2022/)
-- [Deploying Streamlit App with Custom Domain in Apache2](https://q-viper.github.io/2022/07/17/deploying-streamlit-app-with-custom-domain-in-apache2/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
