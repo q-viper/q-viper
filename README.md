@@ -9,16 +9,16 @@
 
 #### HMM About me?
 
-- 💻 AI and Unity, CSIT Undergrad from **Tribhuvan University**.
-- ⚡️ [**Blogging about cool projects**](https://q-viper.github.io/).
-- 🤖 Creator of a [Contour Based Writing Method](https://q-viper.github.io/2020/08/28/gesture-based-visually-writing-system-web-app/), [Face Mask Classifier](https://github.com/q-viper/Face-Mask-Classification-With-Streamlit), [NEPSE Data Visualizer](https://q-viper.github.io/2020/11/21/deploying-nepse-data-visualizer-on-heroku/) and so on.
-- 🥇 An **active blogger** and **`Open-Source Contributor`** and would love to colab on **Open Source Projects**.
-- 🔭 Currently working on **Detection of Infection on Corn Leaves**.
+- 💻 I do stuffs with AI and Unity 3D, did CSIT from **Tribhuvan University**.
+- ⚡️ [**Blogging about data and data projects**](https://q-viper.github.io/).
+- 🤖 Creator of a [Contour Based Writing Method](https://q-viper.github.io/2020/08/28/gesture-based-visually-writing-system-web-app/), [Face Mask Classifier](https://github.com/q-viper/Face-Mask-Classification-With-Streamlit), [NEPSE Data Visualizer](https://q-viper.github.io/2020/11/21/deploying-nepse-data-visualizer-on-heroku/), [dataqoil.com](https://dataqoil.com) and so on.
+- 🥇 An **active blogger**, **[Top Rated Freelancer](https://www.upwork.com/freelancers/~0120b8c76dc85da315)** in Upwork, and **`Open-Source Contributor`** and would love to colab on **Open Source Projects**.
+- 🔭 Currently helping clients in Upwork turn data projects into life.
 - 🎶 Listen to `Symphonic Metal`. 
-- 🌱 I’m currently learning **Unity Game Development, Advanced Machine Learning.**
+- 🌱 I’m currently learning **Unity Game Development, Advanced Machine Learning, Deployment and Trading in Stock Market.**
 - 👨‍💻 All of my projects are available at [q-viper.github.io](https://q-viper.github.io/portfolio_new/#projects)
-- 📝 I regulary write articles on [q-viper.github.io](https://q-viper.github.io/)
-- 💬 Ask me about **Computer Vision, Chatbots.**
+- 📝 I regulary write articles on [q-viper.github.io](https://q-viper.github.io/) and [dataqoil.com](https://dataqoil.com).
+- 💬 Ask me about **Computer Vision, Chatbots, Data Science, Freelancing.**
 - 📫 How to reach me **[viper.incarnation@gmail.com](viper.incarnation@gmail.com)**
 - ⚡ Fun fact **I love Wrestling over any sports.**
 
