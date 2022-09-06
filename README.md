@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MySQL Prepared Statements](https://q-viper.github.io/2022/09/03/mysql-prepared-statements/)
 - [Deploying Image Manipulation Tool in Heroku](https://q-viper.github.io/2022/08/27/deploying-image-manipulation-tool-in-heroku/)
 - [Building Image Merger Web Tool In Python](https://q-viper.github.io/2022/08/20/building-image-merger-web-tool/)
 - [Building Image Size Reducer In Python](https://q-viper.github.io/2022/08/13/building-image-size-reducer-python/)
-- [Making Fractal Shapes with Python](https://q-viper.github.io/2022/08/06/making-fractal-shapes-with-python/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
