@@ -24,7 +24,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Generators](https://q-viper.github.io/2022/09/07/python-generators/)
+- [Python Generators](https://q-viper.github.io/2022/09/10/python-generators/)
 - [MySQL Prepared Statements](https://q-viper.github.io/2022/09/03/mysql-prepared-statements/)
 - [Deploying Image Manipulation Tool in Heroku](https://q-viper.github.io/2022/08/27/deploying-image-manipulation-tool-in-heroku/)
 - [Building Image Merger Web Tool In Python](https://q-viper.github.io/2022/08/20/building-image-merger-web-tool/)
