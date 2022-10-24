@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Intro to OpenCV for Image Processing with Python](https://q-viper.github.io/2022/09/24/intro-to-opencv-for-image-processing-python/)
+- [Intro to CNN with Keras](https://q-viper.github.io/2022/09/17/intro-to-cnn-with-keras/)
 - [Python Generators](https://q-viper.github.io/2022/09/10/python-generators/)
 - [MySQL Prepared Statements](https://q-viper.github.io/2022/09/03/mysql-prepared-statements/)
-- [Deploying Image Manipulation Tool in Heroku](https://q-viper.github.io/2022/08/27/deploying-image-manipulation-tool-in-heroku/)
-- [Building Image Merger Web Tool In Python](https://q-viper.github.io/2022/08/20/building-image-merger-web-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
