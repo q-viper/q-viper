@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with datetime in Python](https://q-viper.github.io/2022/10/01/working-with-datetime-in-python/)
 - [Intro to OpenCV for Image Processing with Python](https://q-viper.github.io/2022/09/24/intro-to-opencv-for-image-processing-python/)
 - [Intro to CNN with Keras](https://q-viper.github.io/2022/09/17/intro-to-cnn-with-keras/)
 - [Python Generators](https://q-viper.github.io/2022/09/10/python-generators/)
-- [MySQL Prepared Statements](https://q-viper.github.io/2022/09/03/mysql-prepared-statements/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
