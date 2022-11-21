@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Basics of Backtesting in Python](https://q-viper.github.io/2022/10/15/basics-of-backtesting-in-python/)
+- [Finding DateTime in Text Using Python](https://q-viper.github.io/2022/10/22/finding-datetime-in-text-using-python/)
+- [Basics of Stock Backtesting in Python](https://q-viper.github.io/2022/10/15/basics-of-backtesting-in-python/)
 - [Basics of Multi-threading in Python](https://q-viper.github.io/2022/10/08/basics-of-multithreding-in-python/)
 - [Working with datetime in Python](https://q-viper.github.io/2022/10/01/working-with-datetime-in-python/)
-- [Intro to OpenCV for Image Processing with Python](https://q-viper.github.io/2022/09/24/intro-to-opencv-for-image-processing-python/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
