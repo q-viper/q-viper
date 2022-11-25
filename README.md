@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Auto-encoders from Scratch in Python](https://q-viper.github.io/2022/10/31/auto-encoders-from-scratch-in-python/)
 - [Finding DateTime in Text Using Python](https://q-viper.github.io/2022/10/22/finding-datetime-in-text-using-python/)
 - [Basics of Stock Backtesting in Python](https://q-viper.github.io/2022/10/15/basics-of-backtesting-in-python/)
 - [Basics of Multi-threading in Python](https://q-viper.github.io/2022/10/08/basics-of-multithreding-in-python/)
-- [Working with datetime in Python](https://q-viper.github.io/2022/10/01/working-with-datetime-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
