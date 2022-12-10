@@ -26,8 +26,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Advent of Code 2022 with Python](https://q-viper.github.io/2022/12/04/advent-of-code-2022-python/)
 - [Simple Cryptography Algorithms in Python](https://q-viper.github.io/2022/11/22/simple-cryptography-in-python/)
+- [WorldCup Tweet Sentiment Analysis in Python](https://q-viper.github.io/2022/11/22/world-cup-tweet-sentiment-analysis/)
 - [Finding Remote Jobs but How and Where?](https://q-viper.github.io/2022/11/15/finding-remote-jobs-but-how-and-where/)
-- [Making Money with Programming](https://q-viper.github.io/2022/11/08/making-money-online-with-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
