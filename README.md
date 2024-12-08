@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href = "https://q-viper.github.io/portfolio_new/">Ramkrishna</a>(Quassarian Viper)</h1>
-<h3 align="center">A passionate ML learner from Nepal.</h3>
+<h3 align="center">A Software Engineer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=q-viper&label=Profile%20views&color=0e75b6&style=flat" alt="q-viper" /> </p>
 
@@ -12,12 +12,12 @@
 - 💻 I work as a Working Student focusing on Computer Vision at Primetals Technologies GmbH.
 - ⚡️ [**Blogging about data and data projects**](https://q-viper.github.io/).
 - 🤖 Creator of [SmokeSim](https://q-viper.github.io/SmokeSim/), [Contour Based Writing Method](https://q-viper.github.io/2020/08/28/gesture-based-visually-writing-system-web-app/), [Face Mask Classifier](https://github.com/q-viper/Face-Mask-Classification-With-Streamlit), [NEPSE Data Visualizer](https://q-viper.github.io/2020/11/21/deploying-nepse-data-visualizer-on-heroku/), [dataqoil.com](https://dataqoil.com) and so on.
-- 🥇 An **active blogger**, **[Top Rated Freelancer](https://www.upwork.com/freelancers/~0120b8c76dc85da315)** in Upwork, and **`Open-Source Contributor`** and would love to colab on **Open Source Projects**.
-- 🔭 Currently doing a Master in Data Science at FAU Erlangen-Nuremberg.
+- 🥇 An **active blogger** (not anymore), **[Top Rated Freelancer](https://www.upwork.com/freelancers/~0120b8c76dc85da315)** in Upwork, and **`Open-Source Contributor`** and would love to colab on **Open Source Projects**.
+- 🔭 Currently doing a Masters in Data Science at FAU Erlangen-Nuremberg.
 - 🎶 Listen to `Symphonic Metal`. 
 <!-- - 🌱 I’m currently learning **Unity Game Development, Advanced Machine Learning, Deployment, and Trading in Stock Market.** -->
 - 👨‍💻 All of my projects are available at [q-viper.github.io](https://q-viper.github.io/portfolio_new/#projects)
-- 📝 I regularly write articles on [q-viper.github.io](https://q-viper.github.io/) and [dataqoil.com](https://dataqoil.com).
+- 📝 I regularly (not anymore) write articles on [q-viper.github.io](https://q-viper.github.io/) and [dataqoil.com](https://dataqoil.com).
 - 💬 Ask me about **Computer Vision, Data Science, and Freelancing.**
 - 📫 How to reach me **[viper.incarnation@gmail.com](viper.incarnation@gmail.com)**
 - ⚡ Fun fact **I love Wrestling over any sport.**
@@ -39,7 +39,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q-viper&layout=compact" alt="q-viper" /></p>
 
 
-![Viper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=q-viper&show_icons=true&theme=radical)
+![Viper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=q-viper&show_icons=true&theme=radical&langs_count=10)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
