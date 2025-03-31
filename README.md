@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ImageBaker - Making Image Labelling Fun](https://q-viper.github.io/2025/03/20/imagebaker-making-image-labelling-fun/)
 - [Advent of Code 2022 with Python](https://q-viper.github.io/2022/12/12/advent-of-code-2022-python/)
 - [Text Analysis with WordCloud in Python](https://q-viper.github.io/2022/12/06/text-analysis-with-word-cloud-in-python/)
 - [Simple Cryptography Algorithms in Python](https://q-viper.github.io/2022/11/22/simple-cryptography-in-python/)
-- [WorldCup Tweet Sentiment Analysis in Python](https://q-viper.github.io/2022/11/22/world-cup-tweet-sentiment-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 * [q-viper.github.io](https://q-viper.github.io/posts/)
