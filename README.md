@@ -12,8 +12,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing a **Master's in Data Science** at FAU Erlangen-Nuremberg
-- 💼 Working Student in **Computer Vision** at Primetals Technologies GmbH
-- ✍️ Blogger at [q-viper.github.io](https://q-viper.github.io/) and [dataqoil.com](https://dataqoil.com)
+- 💼 Working Student focused on **Computer Vision** at Primetals Technologies GmbH
+- ✍️ I sometimes blog at [q-viper.github.io](https://q-viper.github.io/) and [dataqoil.com](https://dataqoil.com)
 - 🚀 Creator of multiple projects, including:
   - [SmokeSim](https://q-viper.github.io/SmokeSim/)
   - [Contour-Based Writing Method](https://q-viper.github.io/2020/08/28/gesture-based-visually-writing-system-web-app/)
