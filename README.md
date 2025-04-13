@@ -20,6 +20,7 @@
   - [Face Mask Classifier](https://github.com/q-viper/Face-Mask-Classification-With-Streamlit)
   - [NEPSE Data Visualizer](https://q-viper.github.io/2020/11/21/deploying-nepse-data-visualizer-on-heroku/)
   - [ImageBaker](https://q-viper.github.io/2025/03/20/imagebaker-making-image-labelling-fun/)
+  - [Neural Template Matching](https://github.com/q-viper/Neural-Template-Matching)
 - 👨‍💻 Open to collaborating on **Open Source Projects**
 - 📫 Reach me at: [viper.incarnation@gmail.com](mailto:viper.incarnation@gmail.com)
 - 💬 Ask me about **Computer Vision, Data Science, and Freelancing**
