@@ -17,7 +17,6 @@
 - 🚀 Creator of multiple projects, including:
   - [SmokeSim](https://q-viper.github.io/SmokeSim/)
   - [Contour-Based Writing Method](https://q-viper.github.io/2020/08/28/gesture-based-visually-writing-system-web-app/)
-  - [Face Mask Classifier](https://github.com/q-viper/Face-Mask-Classification-With-Streamlit)
   - [NEPSE Data Visualizer](https://q-viper.github.io/2020/11/21/deploying-nepse-data-visualizer-on-heroku/)
   - [ImageBaker](https://q-viper.github.io/2025/03/20/imagebaker-making-image-labelling-fun/)
   - [Neural Template Matching](https://github.com/q-viper/Neural-Template-Matching)
