@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi, I'm [Ramkrishna](https://q-viper.github.io/portfolio_new/) (Quassarian Viper)</div>
+# <div align="center">👋 Hi, I'm [Ramkrishna](https://q-viper.github.io/portfolio_new/)</div>
 <div align="center"><b>Software Engineer & Data Scientist from Nepal</b></div>
 
 <div align="center">
