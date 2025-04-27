@@ -21,7 +21,7 @@
   - [ImageBaker](https://q-viper.github.io/2025/03/20/imagebaker-making-image-labelling-fun/)
   - [Neural Template Matching](https://github.com/q-viper/Neural-Template-Matching)
 - 👨‍💻 Open to collaborating on **Open Source Projects**
-- 📫 Reach me at: qramkrishna<at>gmail.com
+- 📫 Reach me at: qramkrishna-at-gmail.com
 - 💬 Ask me about **Computer Vision, Data Science, and Freelancing**
 - 🎵 Enjoys listening to **Symphonic Metal**
 
