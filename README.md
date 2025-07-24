@@ -32,13 +32,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q-viper&layout=compact&theme=radical" alt="Ramkrishna's Top Languages"/>
 </div>
 
+<!--
 ## 🏆 GitHub Trophies
-
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=q-viper&theme=onedark&row=1)](https://github.com/q-viper)
 
 </div>
+-->
 
 ## 📝 Latest Blog Posts
 
