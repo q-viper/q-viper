@@ -4,7 +4,6 @@
 <div align="center">
   
 [![Profile Views](https://komarev.com/ghpvc/?username=q-viper&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/q-viper)
-[![Twitter Follow](https://img.shields.io/twitter/follow/quassarianviper?logo=twitter&style=for-the-badge)](https://twitter.com/quassarianviper)
 [![Top Rated Freelancer](https://img.shields.io/badge/Upwork-Top%20Rated-brightgreen?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~0120b8c76dc85da315)
 
 </div>
