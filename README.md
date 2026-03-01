@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing a **Master's in Data Science** at FAU Erlangen-Nuremberg
+- 🎓 Graduate of **Master's in Data Science** from FAU Erlangen-Nuremberg
 - 💼 Working Student focused on **Computer Vision** at Primetals Technologies GmbH
 - ✍️ I sometimes blog at [q-viper.github.io](https://q-viper.github.io/) and [dataqoil.com](https://dataqoil.com)
 - 🚀 Creator of multiple projects, including:
