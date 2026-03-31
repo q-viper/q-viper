@@ -12,7 +12,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 Graduate of **Master's in Data Science** from FAU Erlangen-Nuremberg
-- 💼 Working Student focused on **Computer Vision** at Primetals Technologies GmbH
 - ✍️ I sometimes blog at [q-viper.github.io](https://q-viper.github.io/) and [dataqoil.com](https://dataqoil.com)
 - 🚀 Creator of multiple projects, including:
   - [SmokeSim](https://q-viper.github.io/SmokeSim/)
