@@ -10,8 +10,8 @@
 </div>
 
 ## 👨‍💻 About Me
-
-- 🎓 Graduate of **Master's in Data Science** from FAU Erlangen-Nuremberg
+- Freelancer at Upwork.com. ([View my profile.](https://www.upwork.com/freelancers/~0120b8c76dc85da315))
+- 🎓 Graduate of **Master's in Data Science** from FAU Erlangen-Nuremberg.
 - ✍️ I sometimes blog at [q-viper.github.io](https://q-viper.github.io/) and [dataqoil.com](https://dataqoil.com)
 - 🚀 Creator of multiple projects, including:
   - [SmokeSim](https://q-viper.github.io/SmokeSim/)
