@@ -44,9 +44,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [ImageBaker - Making Image Labelling Fun](https://q-viper.github.io/2025/03/20/imagebaker-making-image-labelling-fun/)
-- [Advent of Code 2022 with Python](https://q-viper.github.io/2022/12/12/advent-of-code-2022-python/)
-- [Text Analysis with WordCloud in Python](https://q-viper.github.io/2022/12/06/text-analysis-with-word-cloud-in-python/)
-- [Simple Cryptography Algorithms in Python](https://q-viper.github.io/2022/11/22/simple-cryptography-in-python/)
+- [Advent of Code 2022 Python Solutions: Days 1–4](https://q-viper.github.io/2022/12/12/advent-of-code-2022-python/)
+- [WordCloud in Python: Text Analysis and Twitter Data Visualization](https://q-viper.github.io/2022/12/06/text-analysis-with-word-cloud-in-python/)
+- [Simple Cryptography Algorithms in Python: Reverse Cipher, Caesar Cipher, and ROT13](https://q-viper.github.io/2022/11/22/simple-cryptography-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts](https://q-viper.github.io/posts/)
