@@ -10,7 +10,7 @@
 </div>
 
 ## 👨‍💻 About Me
-- Freelancer at Upwork.com. ([View my profile.](https://www.upwork.com/freelancers/~0120b8c76dc85da315))
+- Freelancer at Upwork ([View my profile.](https://www.upwork.com/freelancers/~0120b8c76dc85da315)).
 - 🎓 Graduate of [**Master's in Data Science**](https://www.fau.eu/degree-program/data-science-m-sc/) from FAU Erlangen-Nürnberg.
 - ✍️ I sometimes blog at [q-viper.github.io](https://q-viper.github.io/) and [dataqoil.com](https://dataqoil.com)
 - 🚀 Creator of multiple projects, including:
